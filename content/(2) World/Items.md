@@ -1,0 +1,1 @@
+You have not collected any items of specific note yet.

@@ -1,9 +1,9 @@
 ---
-Alias: [Linelights]
+Alias: []
 ---
 > [!Info]
 > Subject:: [[World]]
-> Parents:: [[Miridan]]
+> Parents:: [[Miridan (OLD)]]
 > Friends:: 
 > Children:: 
 ---
