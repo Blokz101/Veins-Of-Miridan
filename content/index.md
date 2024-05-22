@@ -13,3 +13,4 @@ World information as your characters know it and as is generally known in [[Eldo
 # Session Information
 
 ![[Session One]]
+![[_Session Two]]

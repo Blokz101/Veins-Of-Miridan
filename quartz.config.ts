@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", ".obsidian", "!(PubAttachments)**/!(*.md)", "!(*.md)", "Brainstorming", "Templates", "Players"],
+    ignorePatterns: ["private", ".obsidian", "!(PubAttachments)**/!(*.md)", "!(*.md)", "Brainstorming", "Templates", "Players", "**/_*.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
