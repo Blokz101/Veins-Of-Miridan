@@ -3,12 +3,12 @@ Alias: [Weave Stones]
 ---
 > [!Info]
 > Subject:: [[World]]
-> Parents:: [[Oculardenite]] [[Weave]]
+> Parents:: [[Oculardenite BRAIN STORMING]] [[Weave BRAIN STORMING]]
 > Friends:: 
 > Children:: 
 ---
 - ## Notes
-	- Shards of [[Oculardenite]] carefully shaped into specific geometric patterns that produce different ways of interacting with the weave. Each class has its own associated shape which defines the traits of the class.
+	- Shards of [[Oculardenite BRAIN STORMING]] carefully shaped into specific geometric patterns that produce different ways of interacting with the weave. Each class has its own associated shape which defines the traits of the class.
 	-  Rogue
 		- Generally rounded shape with no jagged edges.
 		- Designed to draw power from the weave while creating as little disturbance as possible. This allows Rogues to remain almost invisible to those who can natively see the weave around them.
@@ -22,9 +22,9 @@ Alias: [Weave Stones]
 		- Varies from Sorcerer to Sorcerer depending on what kind of cut they were drawn to.
 	- Wizard
 		- Generally a very complex shape with twisting geometry.
-		- Designed to allow the Wizard to interact with the [[Weave]] in complex ways to obtain complex results.
+		- Designed to allow the Wizard to interact with the [[Weave BRAIN STORMING]] in complex ways to obtain complex results.
 	- Artificier
-		- Varies depending on the instrument that the [[Weave Stone]]
+		- Varies depending on the instrument that the [[Weave Stone BRAIN STORMING]]
 	- Barbarian
 	- Druid
 	- Bard

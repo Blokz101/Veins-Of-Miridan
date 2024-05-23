@@ -5,7 +5,7 @@ Alias: []
 > Subject:: [[World]]
 > Parents:: 
 > Friends:: 
-> Children:: [[Oculardenite]] [[Weave]] [[Linelight]]
+> Children:: [[Oculardenite BRAIN STORMING]] [[Weave BRAIN STORMING]] [[Linelight]]
 ---
 - ## World Notes
 - ## Creature Notes

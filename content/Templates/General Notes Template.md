@@ -7,7 +7,7 @@ alias: []
 > Friends: 
 > Children: 
 ---
-> <% tp.file.cursor(2) %>
+> 
 
 # Notes
 - 

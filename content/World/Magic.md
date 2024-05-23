@@ -3,10 +3,10 @@ aliases:
 draft: true
 ---
 > [!Info]
-> Subject: 
+> Subject: [[History]]
 > Parents: 
 > Friends: 
 > Children: 
 ---
 # Notes
-- Magic 
+- 
