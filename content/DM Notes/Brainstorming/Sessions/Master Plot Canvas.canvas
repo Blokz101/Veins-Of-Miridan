@@ -1,0 +1,286 @@
+{
+  "nodes": [
+    {
+      "id": "ff0c2250e1376d1c",
+      "type": "text",
+      "text": "## Redemption of the Kingdom\n**Narrative Arc**\n- Main Goals\n\t- Enable Kalos to prepare for the battle against The Void by purging the corruption from it and its Great Houses.\n\t- Hear rumors about The First Watcher and its location in The Abyss of Iskallia.",
+      "styleAttributes": {},
+      "x": 50,
+      "y": -961,
+      "width": 520,
+      "height": 380
+    },
+    {
+      "id": "26347be155e33376",
+      "type": "text",
+      "text": "## Escaping the Maroon Estate\n**Narrative Arc**\n- Main Goals\n\t- The party is stuck in the Maroon Estate and must survive and escape.\n\t- Escape is possible though The Abyss, which joins the physical world with The Void and the Maroon Estate.\n\t- Meet Nymeria and learn of its intentions to dominate The Void and experience all.\nIdeas\n- Hex Crawl with a combination of environmental challenges / puzzles, combat encounters, and hermits with shops?",
+      "styleAttributes": {},
+      "x": 50,
+      "y": -461,
+      "width": 520,
+      "height": 420
+    },
+    {
+      "id": "1a6ebd7abc0f51e6",
+      "type": "text",
+      "text": "## Journey to the Abyss\n**Narrative Arc**\n- Main Goals\n\t- Learn about the origins of the Watchers and The Void.\n\t- Learn about Nymeria and the Maroon Estate.\n\t- Learn about their connection to The Void and what they can do with that power.",
+      "styleAttributes": {},
+      "x": 950,
+      "y": -961,
+      "width": 520,
+      "height": 380
+    },
+    {
+      "id": "c7c970210e82dccf",
+      "type": "text",
+      "text": "## Eternal Light\n**Narrative Arc**\n- Main Goals\n\t- Halt the Umbral Decay with some kinda light and seal the Abyss.\n\t- Imprison Nymeria and halt the expansion of the Maroon Dimension.",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": -961,
+      "width": 520,
+      "height": 380
+    },
+    {
+      "id": "bd8aea423809f5d8",
+      "type": "text",
+      "text": "## The Final Empire\n**Narrative Arc**\n- Main Goals\n\t- Make a deal with the Watchers to be granted incredible void born powers. Part of this deal is to half the population of Miridan and silence magic for good so the Watchers can have peace.",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": -521,
+      "width": 520,
+      "height": 380
+    },
+    {
+      "id": "e54675a3682b4188",
+      "type": "text",
+      "text": "## The Maroon Dimension\n**Narrative Arc**\n- Main Goals\n\t- Make a deal with Nymeria and find a catalyst for its Maroon Estate. Allow Nymeria to take part of Miridan and consume The Void in its collection.",
+      "styleAttributes": {},
+      "x": 1870,
+      "y": -81,
+      "width": 520,
+      "height": 380
+    },
+    {
+      "id": "ba59616d83f7bb78",
+      "type": "text",
+      "text": "#### Voidspawn Attack\n**Encounter Idea**\n\nAfter the party has taken over the outpost and are calming down they are attacked by a massive Voidspawn construct. Using their newfound weapons and the small army of miners the party can drive off or defeat the Voidspawn construct.",
+      "styleAttributes": {},
+      "x": -1590,
+      "y": 1062,
+      "width": 580,
+      "height": 480
+    },
+    {
+      "id": "87c9c35bbb063532",
+      "type": "text",
+      "text": "## Forces of  Corruption and Destruction\n**Narrative Arc**\n- Main Goals\n\t- Discover the forces at work in Miridan",
+      "styleAttributes": {},
+      "x": -910,
+      "y": -961,
+      "width": 580,
+      "height": 380
+    },
+    {
+      "id": "acaf3a4c801bcece",
+      "type": "text",
+      "text": "### Investigation of the Umbral Decay\n**Immediate Arc**\n\n- Main Goals\n\t- Travel deep into the woods surrounding Outpost Skell and discover the Umbral Decay eating the land away.\n\t- Easy survival tasks and encounters with the magical forests of Miridan.\n\t- Return to Outpost Skell and learn that help might be obtained from powerful sorcerers in Kalos.",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 689,
+      "width": 580,
+      "height": 373
+    },
+    {
+      "id": "cde36bae645fc510",
+      "type": "text",
+      "text": "### Mystery of the Missing Coin?\n**Immediate Arc**\n- Main Goals\n\t- Travel to Kalos to track missing shipments or get aid with the Umbral Decay.\n\t- Track missing shipments of Oculite and Artifacts to find the source of corruption in Kalos.",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 139,
+      "width": 580,
+      "height": 370
+    },
+    {
+      "id": "1c63324a10fc870b",
+      "type": "file",
+      "file": "DM Notes/Brainstorming/Sessions/Revolution of Outpost Skell.md",
+      "styleAttributes": {},
+      "x": -1590,
+      "y": 324,
+      "width": 580,
+      "height": 480,
+      "color": "4"
+    },
+    {
+      "id": "2ba5628379e3d157",
+      "type": "text",
+      "text": "# Veins of Miridan\n**Campaign Arc**\n- Main Goals\n\t- ",
+      "styleAttributes": {},
+      "x": 130,
+      "y": -1541,
+      "width": 520,
+      "height": 300
+    },
+    {
+      "id": "c34b845e96b00912",
+      "type": "text",
+      "text": "**Encounter Idea**\nFire breaks out and the party can help put it out.",
+      "styleAttributes": {},
+      "x": 253,
+      "y": -1141,
+      "width": 275,
+      "height": 104
+    },
+    {
+      "id": "ba509f2cd7ad767f",
+      "type": "text",
+      "text": "#### Ancient Tools\n**Encounter Idea**\n\n- The party, is ordered to mine in a specific location. While mining they overhear a conversation and learn the following:\n\t- Rumors of powerful artifacts that are the true reason that house Lanaster is mining at Outpost Skell.\n\t- Rumors of powerful and ancient artifacts hidden below. \n\t- Rumors of powerful spells protecting the vault.",
+      "styleAttributes": {},
+      "x": -2420,
+      "y": 1062,
+      "width": 580,
+      "height": 480
+    }
+  ],
+  "edges": [
+    {
+      "id": "c6bf07ba47267a82",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "ff0c2250e1376d1c",
+      "fromSide": "right",
+      "toNode": "1a6ebd7abc0f51e6",
+      "toSide": "left"
+    },
+    {
+      "id": "098fddf607c70cc5",
+      "styleAttributes": {},
+      "fromNode": "ff0c2250e1376d1c",
+      "fromSide": "top",
+      "toNode": "c34b845e96b00912",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1d2276ea5b3e40a2",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "87c9c35bbb063532",
+      "fromSide": "right",
+      "toNode": "ff0c2250e1376d1c",
+      "toSide": "left"
+    },
+    {
+      "id": "04b74c550ea669b4",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "26347be155e33376",
+      "fromSide": "right",
+      "toNode": "1a6ebd7abc0f51e6",
+      "toSide": "left"
+    },
+    {
+      "id": "8e8191568a8989aa",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "87c9c35bbb063532",
+      "fromSide": "right",
+      "toNode": "26347be155e33376",
+      "toSide": "left"
+    },
+    {
+      "id": "16b4d79176079220",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "1a6ebd7abc0f51e6",
+      "fromSide": "right",
+      "toNode": "c7c970210e82dccf",
+      "toSide": "left"
+    },
+    {
+      "id": "c9dedd3a74b5ab19",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "1a6ebd7abc0f51e6",
+      "fromSide": "right",
+      "toNode": "bd8aea423809f5d8",
+      "toSide": "left"
+    },
+    {
+      "id": "bc87fcc9aa4745f8",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "1a6ebd7abc0f51e6",
+      "fromSide": "right",
+      "toNode": "e54675a3682b4188",
+      "toSide": "left"
+    },
+    {
+      "id": "b49d3c3f219d52c2",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "ba509f2cd7ad767f",
+      "fromSide": "right",
+      "toNode": "ba59616d83f7bb78",
+      "toSide": "left"
+    },
+    {
+      "id": "b37a461e6444de49",
+      "styleAttributes": {},
+      "fromNode": "1c63324a10fc870b",
+      "fromSide": "left",
+      "toNode": "ba509f2cd7ad767f",
+      "toSide": "top"
+    },
+    {
+      "id": "88acdaf4a9d24607",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "fromNode": "ba59616d83f7bb78",
+      "fromSide": "top",
+      "toNode": "1c63324a10fc870b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d57f1ad30da68251",
+      "styleAttributes": {},
+      "fromNode": "87c9c35bbb063532",
+      "fromSide": "left",
+      "toNode": "1c63324a10fc870b",
+      "toSide": "top"
+    },
+    {
+      "id": "7db7a533bd5fe07f",
+      "styleAttributes": {},
+      "fromNode": "2ba5628379e3d157",
+      "fromSide": "left",
+      "toNode": "87c9c35bbb063532",
+      "toSide": "top"
+    },
+    {
+      "id": "ea26576455289d72",
+      "styleAttributes": {},
+      "fromNode": "1c63324a10fc870b",
+      "fromSide": "right",
+      "toNode": "acaf3a4c801bcece",
+      "toSide": "left"
+    },
+    {
+      "id": "ff40e95d38f67242",
+      "styleAttributes": {},
+      "fromNode": "1c63324a10fc870b",
+      "fromSide": "right",
+      "toNode": "cde36bae645fc510",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
