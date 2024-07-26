@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Session One</title>
+    <link>https://quartz.jzhao.xyz/Public/Sessions/Session-One</link>
+    <guid>https://quartz.jzhao.xyz/Public/Sessions/Session-One</guid>
+    <description>Pre Session Information General Information Check out Mechanics and Rulings for new rules and changed rules. Any rule listed there overrides the Player Handbook or other sources.</description>
+    <pubDate>Fri, 26 Jul 2024 20:46:30 GMT</pubDate>
+  </item><item>
+    <title>Mechanics and Rulings</title>
+    <link>https://quartz.jzhao.xyz/Public/Sessions/Mechanics-and-Rulings</link>
+    <guid>https://quartz.jzhao.xyz/Public/Sessions/Mechanics-and-Rulings</guid>
+    <description>New Mechanics A main goal of this campaign for me is to keep DND as dynamic and creative as possible, so we will be experimenting with new mechanics to make the entire campaign as fun as ...</description>
+    <pubDate>Fri, 26 Jul 2024 20:17:53 GMT</pubDate>
+  </item><item>
+    <title>Veins Of Miridan</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Welcome to the Veins of Miridan homepage! This document will act as a lore document, session history, item catalog, and creature catalog. Check below before each session for pre-session information and or announcements.</description>
+    <pubDate>Fri, 19 Jul 2024 15:57:58 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

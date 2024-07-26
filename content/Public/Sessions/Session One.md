@@ -1,0 +1,23 @@
+# Pre Session Information
+- General Information
+	- Check out [[Mechanics and Rulings]] for new rules and changed rules. Any rule listed there overrides the Player Handbook or other sources.
+	- Before Session One I need to meet with each player to flush out backstory, discuss character goals, and properly tie them into Miridan. **Players who have not met with me:**
+		- [ ] Sara
+		- [ ] Josiah
+		- [ ] Landon
+		- [ ] Damion
+		- [ ] Renee
+- Character Creation Information
+	- Characters will be starting at level 6.
+	- I want to add a little more roleplaying into this campaign so create a character you actually like and would want to play as.
+	- This campaign will not be taking place in Faerun, descriptions of the world of Faerun and or its people may or may not be accurate. I am mostly using the 5e system to for mechanics but mostly ignoring it in world building.
+	- Anything in the 5e handbook, Xanathar's, and Tasha's Cauldron is legal.
+	- Pick non magical races for your characters (non magical is considered a race that might plausibly exist on Earth. For example elves could plausibly fit into the current physics system but dragon born might not as they require the existence of dragons).
+- Character Backstory Creation
+	- Please put effort into your characters backstory. I want to tie backstory into events, plot lines, allies, enemies, or resources.
+	- Please also add reason that your character might currently be in a prison. 
+	- Make sure your backstory is consistent with some general information about the world: 
+		- The Common Races are the non magical races (which you are playing as). Though magic existed all around them, they were never able use it themselves. Until 10 years ago. 10 years ago a new material was discovered, Oculite, which could reshape the weave around itself. Weave Stones were quickly created and granted the Common Races artificial magical abilities. These extraordinary abilities gave rise to the classes of DND that we now know and love.
+		- Most of Miridan is not explored or mapped by the Common Races. The Rangers Guild is an organization within the Kingdom of Kalos dedicated to exploration, but venturing into the massive Virulent Forest that surrounds Kalos is dangerous and few parties have made it to the other side and back again.
+		- Kalos is the only major kingdom and safe haven for the Common Races. Its invests much of its resources into maintain the great walls that protect its citizens from the known and unknown predators in the Virulent Forest. Outpost settlements do exist, but are generally considered very dangerous to live in without extreme forms of protection.
+
