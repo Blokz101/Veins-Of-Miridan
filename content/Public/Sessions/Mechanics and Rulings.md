@@ -3,7 +3,7 @@ A main goal of this campaign for me is to keep DND as dynamic and creative as po
 
 - #### New Spells and Abilities
 	- The spells and abilities in the Player Handbook are not the end of magic and skill. The spells, class features, and even classes in the Player Handbook simply represent what is common knowledge at the start of the campaign. Those who specialize in their arts are sure to have discovered more.
-	- When a spell or ability is used that a player does not recognize, the players who saw the effect can roll an `Intelligence Check` or `Wisdom Check`, depending on the situation, to learn how it works. 
+	- When a spell or ability is used that a player does not recognize, the players who saw the effect can roll an `Intelligence Check`, `Wisdom Check`, or `Arcana Check`, depending on the spell or ability, to learn how it works. 
 	- Spells and abilities that the party learn about will be posted in the World section of this document afterwards for ease of access.
 - #### Creating New Spells and Abilities
 	- Characters can spend time practicing with their bow or pouring over old runes to learn new skills or invent new spells.
