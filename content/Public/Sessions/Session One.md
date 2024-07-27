@@ -9,6 +9,7 @@
 		- [ ] Renee
 - Character Creation Information
 	- Characters will be starting at level 6.
+	- When the campaign starts your characters will be familiar with each other, but not really know each other.
 	- I want to add a little more roleplaying into this campaign so create a character you actually like and would want to play as.
 	- This campaign will not be taking place in Faerun, descriptions of the world of Faerun and or its people may or may not be accurate. I am mostly using the 5e system to for mechanics but mostly ignoring it in world building.
 	- Anything in the 5e handbook, Xanathar's, and Tasha's Cauldron is legal.
