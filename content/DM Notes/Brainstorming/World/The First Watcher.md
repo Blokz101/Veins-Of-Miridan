@@ -1,3 +1,0 @@
-- The only Watcher to ever venture into the physical world.
-- It sacrificed itself to give the void the ability to create voidspawn when it left the void and pushed the city of Vala into the void.
-- It is now trapped in the frozen land of Iskallia, deep within The Abyss.

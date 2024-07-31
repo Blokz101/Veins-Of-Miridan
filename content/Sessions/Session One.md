@@ -6,7 +6,7 @@
 		- [ ] Josiah
 		- [ ] Landon
 		- [ ] Damion
-		- [ ] Renee
+		- [x] Renee
 - Character Creation Information
 	- Characters will be starting at level 6.
 	- When the campaign starts your characters will be familiar with each other, but not really know each other.
@@ -18,7 +18,7 @@
 	- Please put effort into your characters backstory. I want to tie backstory into events, plot lines, allies, enemies, or resources.
 	- Please also add reason that your character might currently be in a prison. 
 	- Make sure your backstory is consistent with some general information about the world: 
-		- The Common Races are the non magical races (which you are playing as). Though magic existed all around them, they were never able use it themselves. Until 10 years ago. 10 years ago a new material was discovered, Oculite, which could reshape the weave around itself. Weave Stones were quickly created from the new mineral and granted the Common Races artificial magical abilities. These extraordinary abilities gave rise to the classes of DND that we now know and love.
-		- Most of Miridan is not explored or mapped by the Common Races. The Rangers Guild is an organization within the Kingdom of Kalos dedicated to exploration, but venturing into the massive Virulent Forest that surrounds Kalos is dangerous. Few to no parties have made it to the other side and back again.
-		- Kalos is the only major kingdom and safe haven for the Common Races. Its invests much of its resources to maintain the great walls that protect it and its citizens from the known and unknown predators of the Virulent Forest. Outpost settlements do exist, but are generally considered very dangerous to live in without extreme forms of protection.
+		- The [[Civilized Races]] are the non magical races (which you are playing as). Though magic existed all around them, they were never able use it themselves. Until 10 years ago. 10 years ago a new material was discovered, [[Oculardenite|Oculite]], which could reshape the [[Natural Magic|Weave]] around itself. [[Weave Stones]] were quickly created from the new mineral and granted the [[Civilized Races]] artificial magical abilities. These extraordinary abilities gave rise to the classes of DND that we now know and love.
+		- Most of [[Miridan]] is not explored or mapped by the [[Civilized Races]]. [[The Rangers Guild]] is an organization within the Kingdom of [[Kalos]] dedicated to exploration, but venturing into the massive [[Virulent Forest]] that surrounds [[Kalos]] is very dangerous.
+		- [[Kalos]] is the only major kingdom and safe haven for the [[Civilized Races]]. Its invests much of its resources to maintain the great walls that protect it and its citizens from the known and unknown predators of the [[Virulent Forest]]. Outpost settlements do exist, but are generally considered very dangerous to live in without extreme forms of protection.
 

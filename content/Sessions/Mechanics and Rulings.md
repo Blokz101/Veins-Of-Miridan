@@ -21,5 +21,5 @@ To better fit the magical systems of [[Miridan]] some aspects of the beloved Pla
 		- **Half Failure** occurs when the creature rolls above or equal to $DC-2$.
 		- **Full Failure** occurs when the creature rolls below all the others.
 	- The goal for this is to make some spells and abilities, new or old, feel less bad if the effect does not land. For these spells its harder to get a full success, but its also harder to completely waste your turn and spell slot.
-- #### Arcane Signets
-	- Arcane Signets can only exist as a spell casters [[_Weave Stone|Weave Stones]] which has been specially crafted to allow for the creation of components. Spell casters [[_Weave Stone|Weave Stones]] will contain a field `Arcane Signet Level` which determines the maximum spell level that it can create physical components for.
+- #### Arcane Focus and Spell Casting
+	- Arcane Focuses are [[Weave Stones]] which has been specially crafted to channel the [[Natural Magic|Weave]]. Spell casters [[Weave Stones]] are tiered with each level of [[Weave Stone]] corresponding to the max level spell that it can cast. 
