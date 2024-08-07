@@ -5,7 +5,7 @@
 		- [x] Sara
 		- [ ] Josiah
 		- [ ] Landon
-		- [ ] Damion
+		- [x] Damion
 		- [x] Renee
 - Character Creation Information
 	- Characters will be starting at level 6.
