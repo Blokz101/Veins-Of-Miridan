@@ -3,7 +3,7 @@
 	- Check out [[Mechanics and Rulings]] for new rules and changed rules. Any rule listed there overrides the Player Handbook or other sources.
 	- Before Session One I need to meet with each player to flush out backstory, discuss character goals, and properly tie them into Miridan. **Players who have not met with me:**
 		- [x] Sara
-		- [ ] Josiah
+		- [x] Josiah
 		- [ ] Landon
 		- [x] Damion
 		- [x] Renee
