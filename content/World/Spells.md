@@ -1,6 +1,6 @@
 ### New Spells
 As new spells are discovered their hyperlinks will appear here.
-- 
+- None so far
 ### Altered Spells
 Because I plan to introduce new mechanics and spells into the campaign some original spells may need to be rebalanced to avoid creating a meta. Spell adjustments are listed below.
 - **Silvery Barbs**
