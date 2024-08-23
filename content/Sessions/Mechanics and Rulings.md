@@ -23,3 +23,5 @@ To better fit the magical systems of [[Miridan]] some aspects of the beloved Pla
 	- The goal for this is to make some spells and abilities, new or old, feel less bad if the effect does not land. For these spells its harder to get a full success, but its also harder to completely waste your turn and spell slot.
 - #### Arcane Focus and Spell Casting
 	- Arcane Focuses are [[Weave Stones]] which has been specially crafted to channel the [[Natural Magic|Weave]]. Spell casters [[Weave Stones]] are tiered with each level of [[Weave Stone]] corresponding to the max level spell that it can cast. 
+- #### Medicine Checks
+	- A successful medicine check will restore 1 hp to a downed party member.
