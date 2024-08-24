@@ -25,3 +25,5 @@ To better fit the magical systems of [[Miridan]] some aspects of the beloved Pla
 	- Arcane Focuses are [[Weave Stones]] which has been specially crafted to channel the [[Natural Magic|Weave]]. Spell casters [[Weave Stones]] are tiered with each level of [[Weave Stone]] corresponding to the max level spell that it can cast. 
 - #### Medicine Checks
 	- A successful medicine check will restore 1 hp to a downed party member.
+- #### Flanking
+	- Flanking rules do not apply.
